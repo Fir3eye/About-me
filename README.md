@@ -125,3 +125,5 @@ I have expertise in building <strong>end-to-end CI/CD pipelines</strong>, optimi
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>
 </div>
+<img width="1887" height="894" alt="image" src="https://github.com/user-attachments/assets/4e52f162-d6fa-44e4-9750-779253be327c" />
+
